@@ -10,7 +10,8 @@
  ## <span style = "color:fuchsia"> 1 - **Tela Principal** </span>
  <br>
 
- ![Image](https://cdn.discordapp.com/attachments/908774068696789066/930292316822982717/index.png)
+ ![Image](https://cdn.discordapp.com/attachments/908774068696789066/930304884664844288/index.png)
+ ![Image](https://cdn.discordapp.com/attachments/908774068696789066/930304885122039868/footer.png)
 
  <br>
  <br>
