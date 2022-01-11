@@ -1,4 +1,4 @@
-## Projeto realizado no curso de CSS Avançado da <span style = "color:purple"> Origamid </span> - Posicionamento :purpleheart:
+## Projeto realizado no curso de CSS Avançado da <span style = "color:purple"> Origamid </span> - Posicionamento :purple_heart:
  
  - O projeto criado foi um layout de um site de Café! São 3 telas principais e o principal objetivo do curso foi estudar o posicionamento dos elementos utilizando **Flexbox** :sparkles:
 
